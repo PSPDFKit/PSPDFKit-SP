@@ -47,3 +47,5 @@ Package.resolved
 *.swiftpm*
 
 .build/
+*.zip
+.DS_Store
