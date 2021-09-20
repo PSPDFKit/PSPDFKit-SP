@@ -1,4 +1,4 @@
-// swift-tools-version:5.3
+// swift-tools-version:5.5
 
 import PackageDescription
 
@@ -12,11 +12,11 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PSPDFKit",
-            url: "https://customers.pspdfkit.com/pspdfkit/xcframework/10.5.1.zip",
-            checksum: "72544bcfbe664447277399d59329ab227f66883a91658e0cb0397d586fdf8deb"),
+            url: "https://customers.pspdfkit.com/pspdfkit/xcframework/11.0.0.zip",
+            checksum: "29f2431acd73e0f0cb4790491db2ba533ac9beba5aa78408b30a60fd7af1fa9a"),
         .binaryTarget(
             name: "PSPDFKitUI",
-            url: "https://customers.pspdfkit.com/pspdfkitui/xcframework/10.5.1.zip",
-            checksum: "7388af449ce69e8c9b165c4ac64eb590ee2c4a98976ba33f9faf414559a2c3f6"),
+            url: "https://customers.pspdfkit.com/pspdfkitui/xcframework/11.0.0.zip",
+            checksum: "47253239014fde964b0cbb0ffc275ce2c71f9cb25a946d3c502c99c4c15947d3"),
     ]
 )
