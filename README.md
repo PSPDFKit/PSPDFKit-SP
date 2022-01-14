@@ -15,7 +15,7 @@ To get started with PSPDFKit we suggest reading the [Integrating PSPDFKit](https
 at the [PSPDFKit Guides](https://pspdfkit.com/guides/ios/current/).
 
 PSPDFKit comes with two dynamic frameworks, the model layer (PSPDFKit.xcframework) and the UI layer (PSPDFKitUI.xcframework), and optional CocoaPods and Carthage support for easy integration.
-PSPDFKit is compatible with iOS 12, 13, and 14 and Xcode 12.0+.
+PSPDFKit is compatible with iOS 13, 14, and 15 and Xcode 13+.
 
 ## Support
 
