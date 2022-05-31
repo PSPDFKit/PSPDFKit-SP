@@ -16,6 +16,8 @@ at the [PSPDFKit Guides](https://pspdfkit.com/guides/ios/current/).
 
 PSPDFKit comes with two dynamic frameworks, the model layer (PSPDFKit.xcframework) and the UI layer (PSPDFKitUI.xcframework), and optional CocoaPods and Carthage support for easy integration.
 
+See [System Compatibility for iOS](https://pspdfkit.com/guides/ios/announcements/version-support/) for more information on supported operating systems.
+
 ## Support
 
 For questions or to report issues, open a ticket on our [support platform](https://pspdfkit.com/support/request).
