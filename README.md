@@ -1,5 +1,5 @@
-Swift Package for PSPDFKit for iOS
-==================================
+Out-of-the-box PDF functionality for your iOS app
+=================================================
 
 The Best Way to Handle PDF Documents on iOS. A high-performance viewer, extensive annotation and document editing tools, digital signatures, and more. All engineered for the best possible user and developer experience. PSPDFKit — the iOS PDF SDK made for you.
 
