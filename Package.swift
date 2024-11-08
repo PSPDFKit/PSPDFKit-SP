@@ -11,7 +11,7 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "Nutrient",
+            name: "PSPDFKit",
             targets: ["PSPDFKit", "PSPDFKitUI"]),
     ],
     targets: [
