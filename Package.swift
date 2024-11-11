@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "PSPDFKit",
+    name: "Nutrient",
     platforms: [
         .iOS(.v15),
         .macCatalyst(.v15),

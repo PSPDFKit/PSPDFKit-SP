@@ -1,28 +1,23 @@
-Swift Package for PSPDFKit for iOS
- ==================================
+Nutrient iOS SDK
+================
 
-The Best Way to Handle PDF Documents on iOS. A high-performance viewer, extensive annotation and document editing tools, digital signatures, and more. All engineered for the best possible user and developer experience. PSPDFKit — the iOS PDF SDK made for you.
-
-## License
-
-PSPDFKit is commercial software. [Contact our sales team here](https://pspdfkit.com/sales/).
-See LICENSE for the evaluation license. By downloading and installing PSPDFKit, you accept the terms of this license.
-Once you signed a commercial license, register your app bundle identifier at [customers.pspdfkit.com](https://customers.pspdfkit.com).
+Give your users a premium experience with an iOS PDF viewer SDK that has dozens of out-of-the-box features for document viewing, signing, annotation, redaction, and much more.
 
 ## Getting Started
 
-To get started with PSPDFKit we suggest reading the [Integrating PSPDFKit](https://pspdfkit.com/guides/ios/current/getting-started/integrating-pspdfkit) page located
-at the [PSPDFKit Guides](https://pspdfkit.com/guides/ios/current/).
+To get started with Nutrient iOS SDK, add this repository as a Swift package, or read our [step-by-step getting started guide](https://www.nutrient.io/getting-started/ios/) for more details. Learn more in the [Nutrient iOS SDK guides](https://www.nutrient.io/guides/ios/).
 
-PSPDFKit comes with two dynamic frameworks, the model layer (PSPDFKit.xcframework) and the UI layer (PSPDFKitUI.xcframework), and optional CocoaPods and Carthage support for easy integration.
+Our SDK comes with two main frameworks: the model layer ([PSPDFKit](https://www.nutrient.io/api/ios/documentation/pspdfkit)) and the UI layer ([PSPDFKitUI](https://www.nutrient.io/api/ios/documentation/pspdfkitui)).
 
-See [System Compatibility for iOS](https://pspdfkit.com/guides/ios/announcements/version-support/) for more information on supported operating systems.
+Nutrient iOS SDK can be used with iOS, Mac Catalyst and visionOS apps. Our [system compatibility guide](https://www.nutrient.io/guides/ios/announcements/version-support/) has more details about supported operating systems.
 
 ## Support
 
-For questions or to report issues, open a ticket on our [support platform](https://pspdfkit.com/support/request).
-Visit [PSPDFKit.com](https://www.pspdfkit.com) for the latest news and tips.
+For questions or to report issues, open a ticket on our [support platform](https://www.nutrient.io/support/request). Visit [www.nutrient.io](https://www.nutrient.io/) for the latest news and tips.
 
-Thanks,
-The PSPDFKit Team
+## License
 
+Nutrient iOS SDK is commercial software. [Contact our sales team](https://www.nutrient.io/sdk/contact-sales). See LICENSE for the evaluation license. By downloading and installing Nutrient iOS SDK, you accept the terms of this license. Once you’ve signed a commercial license, register your app bundle identifier at [my.nutrient.io](https://my.nutrient.io/).
+
+Thanks,<br />
+The Nutrient Team
