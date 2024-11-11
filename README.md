@@ -9,7 +9,7 @@ To get started with Nutrient iOS SDK, add this repository as a Swift package, or
 
 Our SDK comes with two main frameworks: the model layer ([PSPDFKit](https://www.nutrient.io/api/ios/documentation/pspdfkit)) and the UI layer ([PSPDFKitUI](https://www.nutrient.io/api/ios/documentation/pspdfkitui)).
 
-Nutrient iOS SDK can be used with iOS, Mac Catalyst and visionOS apps. Our [system compatibility guide](https://www.nutrient.io/guides/ios/announcements/version-support/) has for details about supported operating systems.
+Nutrient iOS SDK can be used with iOS, Mac Catalyst and visionOS apps. Our [system compatibility guide](https://www.nutrient.io/guides/ios/announcements/version-support/) has more details about supported operating systems.
 
 ## Support
 
