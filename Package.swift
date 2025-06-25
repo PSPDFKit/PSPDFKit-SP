@@ -17,11 +17,11 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PSPDFKit",
-            url: "https://customers.pspdfkit.com/pspdfkit-xcframework-14.9.0.zip",
-            checksum: "96bd015313d973926f58be69b24ebc3823811cfa44fc4fbb06d0d7e6833469bc"),
+            url: "https://customers.pspdfkit.com/pspdfkit-xcframework-14.10.0.zip",
+            checksum: "05d6ce9379141cac230ba464b9079d014ce5bc075921251c3fbe3915f9163d9d"),
         .binaryTarget(
             name: "PSPDFKitUI",
-            url: "https://customers.pspdfkit.com/pspdfkitui-xcframework-14.9.0.zip",
-            checksum: "ef5c992e2089c95220087373127b322c0d265ec2a43995f65bc7d1b643ab2f5e"),
+            url: "https://customers.pspdfkit.com/pspdfkitui-xcframework-14.10.0.zip",
+            checksum: "4b6f611af122e23a0c16e088e0ca24e73e0b8b096336c40a08343a6e8782f519"),
     ]
 )
