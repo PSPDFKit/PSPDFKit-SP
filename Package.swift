@@ -17,11 +17,11 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PSPDFKit",
-            url: "https://my.nutrient.io/pspdfkit-xcframework-26.7.0.zip",
-            checksum: "ab545c5260ec03d4790aa2e75f676732dc95f2dd196628a60c72290d57ca7498"),
+            url: "https://my.nutrient.io/pspdfkit-xcframework-26.8.0.zip",
+            checksum: "ec28c2ee534192937c5af2d587acd2c1e33ea26f1eecf7c279e72fd5629e31ce"),
         .binaryTarget(
             name: "PSPDFKitUI",
-            url: "https://my.nutrient.io/pspdfkitui-xcframework-26.7.0.zip",
-            checksum: "d7383e279e1c9856c42eb89309955b75ef1be0d5a801b7b28db03d30cfe1a1fc"),
+            url: "https://my.nutrient.io/pspdfkitui-xcframework-26.8.0.zip",
+            checksum: "eefcbd0895e270ec859d3ad9a21fe15f0d3f16b70e833567d93eda48d5e6253f"),
     ]
 )
