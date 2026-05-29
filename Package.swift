@@ -5,8 +5,8 @@ import PackageDescription
 let package = Package(
     name: "Nutrient",
     platforms: [
-        .iOS(.v16),
-        .macCatalyst(.v16),
+        .iOS(.v17),
+        .macCatalyst(.v17),
         .visionOS(.v1)
     ],
     products: [
